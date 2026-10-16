@@ -2,13 +2,6 @@
 // To add one: copy an entry, update fields. `date` is YYYY-MM-DD.
 const ARTICLES = [
   {
-    title: "The Politics of Control: Gender, Power, and the Legacy of the Istanbul Convention in Türkiye",
-    url: "https://www.vforhuman.org/articles/the-politics-of-control-dj42y",
-    cover: "https://images.squarespace-cdn.com/content/v1/696107467d4f4846a3d582e4/1767966577507-FS3Q10FZASI2WQ4I2Y0K/politicsofcontrol.png",
-    date: "2025-07-25",
-    excerpt: "A law was signed, then withdrawn. What changed in between reveals far more than politics. It asks what justice really means, and who gets to claim it."
-  },
-  {
     title: "The Role of Societal Legitimacy in Policy-Making Processes: A Discussion About Affective Politics",
     url: "https://www.vforhuman.org/articles/societal-legitimacy-7lawf",
     cover: "https://images.squarespace-cdn.com/content/v1/696107467d4f4846a3d582e4/1767966577478-LYVYUHE8HZ7HSJUTQ0A3/Empty+Seats+Posters+%2821%29.png",
